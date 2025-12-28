@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name_task": "Создаю таск менеджер",
+        "option": null,
+        "Ready": false,
+        "date": "28-12-2025"
+    },
+    {
+        "id": 2,
+        "name_task": "Прочитать книгу",
+        "option": null,
+        "Ready": true,
+        "date": "28-12-2025"
+    },
+    {
+        "id": 3,
+        "name_task": "Послушать музыку",
+        "option": null,
+        "Ready": false,
+        "date": "28-12-2025"
+    }
+]
